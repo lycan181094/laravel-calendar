@@ -1,5 +1,7 @@
 # Laravel 7 & 8 Full Calendar 5 Helper
 
+# THIS PACKAGE IS NOT OWNED OR MAINTAINED BY ME, SIMPLY RE-HOSTING
+
 This is a simple helper package to make generating [http://fullcalendar.io](http://fullcalendar.io) in Laravel apps easier.
 
 Thanks to [@maddhatter](https://github.com/maddhatter) for the [initial repo](https://github.com/maddhatter/laravel-fullcalendar) for laravel < 7
