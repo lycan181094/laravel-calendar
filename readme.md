@@ -9,7 +9,7 @@ Thanks to [@maddhatter](https://github.com/maddhatter) for the [initial repo](ht
 ## Installing
 Require the package with composer using the following command:
 
-    composer require acaronlex/laravel-calendar
+    composer require huckinB/laravel-calendar
 
 The provider and `Calendar` alias will be registered automatically.
 
