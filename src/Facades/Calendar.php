@@ -1,6 +1,6 @@
 <?php
 
-namespace HuckinB\LaravelCalendar\Facades;
+namespace Acaronlex\LaravelCalendar\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace HuckinB\LaravelCalendar;
+namespace Acaronlex\LaravelCalendar;
 
 use Illuminate\Support\Collection;
 
